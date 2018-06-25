@@ -1,2 +1,2 @@
-# datos_personales_Carlos
-Datos Personales Carlos
+# Capacitacion_Git
+Repositorio usado para capacitación de GIT
